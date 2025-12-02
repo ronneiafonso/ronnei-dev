@@ -1,4 +1,4 @@
-# Olá! Eu sou [Ronnei Afonso], um entusiasta de EdTech! 
+# Olá! Eu sou Ronnei Afonso, um entusiasta de EdTech! 
 
 ### Estudante de Engenharia de Software | Técnico Pedagógico (SEDU-ES) | Focado em soluções de EdTech e otimização de processos Educacionais.
 
@@ -30,4 +30,4 @@ Estou atualmente imerso no aprendizado das bases da programação, focado em con
 
 ---
 
-> "Não há limites para quem se propõe programar o impossível" - [RONNEI AFONSO]
+> "Não há limites para quem se propõe programar o impossível" - RONNEI AFONSO
